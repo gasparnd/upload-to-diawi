@@ -15,7 +15,9 @@ DIAWI_EMAILS="YOUR NOTIFY EMAILS"
 ## How to use
 
 Excecute
-
+```
+chmod +x ./script.sh
+```
 ```
 ./script.sh
 ```
