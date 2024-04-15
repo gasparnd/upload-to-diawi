@@ -1,5 +1,5 @@
 #!/bin/bash
-# This project has the proposal of upload an apk to Diawi using the API
+# This project has the purpose of uploading an apk to Diawi using the API
 
 echo ""
 echo "CLI - Upload APK to DIAWI"
